@@ -127,13 +127,9 @@ h3 {
     
 }
 
+/* Instructions
 
+il faut changer le rcontent pour pouvoir dissocier le bouton et le titre et tout.
+Il faudra peut être devoir tout recommencer pour pouvoir rajouter une nouvelle div afin de ne pas selectionné le bouton.
 
-display: flex;
-flex-direction: row;
-width: 40%;
-align-items: center;
-margin: auto;
-gap: 30px;
-margin-top: 150px;
-margin-bottom: 100px;
+*/
