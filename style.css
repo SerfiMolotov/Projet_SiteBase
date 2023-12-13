@@ -47,6 +47,7 @@ li {
     margin: auto;
     gap: 30px;
     margin-top: 150px;
+    margin-bottom: 100px;
 }
 
 
@@ -70,11 +71,24 @@ button {
 
 
 .info {
-    display: flex;
-    justify-content: center;
-    margin-top: 100px;
-    gap: 40px;
     background-color: white;
     color: black;
-    padding: 75px;
+    padding-top: 40px;
+    padding-bottom: 250px;
+}
+
+.container {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 40px;
+}
+
+h3 {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 60px;
+    font-size: 36px;
+    font-weight: 800;
+    color: #1f2937;
 }
