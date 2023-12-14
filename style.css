@@ -124,12 +124,23 @@ h3 {
     flex-direction: row;
     align-items: center;
     margin: auto;
+    gap: 150px;
     
 }
 
-/* Instructions
+.fcontent {
+    display: flex;
+    flex-direction: column;
+}
 
-il faut changer le rcontent pour pouvoir dissocier le bouton et le titre et tout.
-Il faudra peut être devoir tout recommencer pour pouvoir rajouter une nouvelle div afin de ne pas selectionné le bouton.
 
-*/
+.rbouton {
+    font-weight: 600;
+}
+
+.footer {
+    display: flex;
+    height: 100px;
+    justify-content: center;
+    align-items: center;
+}
