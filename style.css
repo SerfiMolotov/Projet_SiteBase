@@ -42,7 +42,7 @@ li {
 .introduction {
     display: flex;
     flex-direction: row;
-    width: 600px;
+    width: 700px;
     align-items: center;
     margin: auto;
     gap: 10px;
