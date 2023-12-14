@@ -62,7 +62,7 @@ button {
     background-color: #3882f6;
     color: white;
     border-radius: 7px;
-    width: 80px;
+    width: 100px;
     height: 30px;
     font-size: 15px;
     font-weight: 500;
@@ -126,7 +126,7 @@ h3 {
     flex-direction: row;
     align-items: center;
     margin: auto;
-    gap: 150px;
+    gap: 100px;
     
 }
 
@@ -198,4 +198,10 @@ a {
     margin-left: 11px;
     margin-top: 15px;
     margin-bottom: 15px;
+}
+
+.paragraphe {
+    margin-top: 5px;
+    font-size: 15px;
+    font-weight: 100;
 }
